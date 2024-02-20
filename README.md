@@ -1,1 +1,2 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akakouit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={akakouit}
+)](https://github.com/anuraghazra/github-readme-stats)
